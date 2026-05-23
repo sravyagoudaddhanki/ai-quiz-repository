@@ -1,0 +1,10 @@
+What is Python?|programming language|Python is a high-level programming language used for many purposes.
+What is AI?|artificial intelligence|AI stands for Artificial Intelligence - machines that simulate human thinking.
+What does CPU stand for?|central processing unit|CPU is the main processor of a computer.
+What is a variable in programming?|a storage location|A variable stores data values in a program.
+What language is used for web pages?|html|HTML stands for HyperText Markup Language.
+What is a loop in programming?|repeating code|A loop repeats a block of code multiple times.
+What is a function in Python?|reusable block of code|A function is a reusable block of code defined with def keyword.
+What does RAM stand for?|random access memory|RAM is temporary memory used by the computer while running programs.
+What is machine learning?|learning from data|Machine learning is when computers learn patterns from data.
+What symbol is used for comments in Python?|#|The # symbol is used to write comments in Python.
